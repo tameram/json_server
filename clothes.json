@@ -1,0 +1,41 @@
+{
+"clothes" : [
+	{
+	"name" : "1" ,
+	"wsize": 40,
+	"hsize": 50
+	},
+	{
+	"name" : "2" ,
+	"wsize": 40,
+	"hsize": 80
+	},
+	{
+	"name" : "3" ,
+	"wsize": 50,
+	"hsize": 40
+	},
+	{
+	"name" : "4" ,
+	"wsize": 60,
+	"hsize": 70
+	},
+	{
+	"name" : "5" ,
+	"wsize": 40,
+	"hsize": 50
+	},
+	{
+	"name" : "6" ,
+	"wsize": 60,
+	"hsize": 60
+	},
+	{
+	"name" : "7" ,
+	"wsize": 40,
+	"hsize": 50
+	}
+
+]
+
+}

@@ -3,37 +3,44 @@
 	{
 	"name" : "1" ,
 	"wsize": 40,
-	"hsize": 50
+	"hsize": 50,
+	"image_url":"https://i.pinimg.com/originals/19/67/da/1967daaa049c4accf9210c77b7e38a44.png"
 	},
 	{
 	"name" : "2" ,
 	"wsize": 40,
-	"hsize": 80
+	"hsize": 80,
+	"image_url":"https://www.freepnglogos.com/uploads/t-shirt-png/t-shirt-png-markknopflerm-women-british-grove-studios-logo-shirt-33.png"
 	},
 	{
 	"name" : "3" ,
 	"wsize": 50,
-	"hsize": 40
+	"hsize": 40,
+	"image_url":"https://images.squarespace-cdn.com/content/v1/56989742a128e639e56e2855/1504492809034-ID6YGODQRGE9VNBZEL1W/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmrMDYraMJMCQwFxTSOIP7LpSBEQpA-g5k6VTjWbSuadHJq0dp98hg5AZvIaPb3DoM/longsleeveblank_mockup_Flat-Front_Forest-Green.png"
 	},
 	{
 	"name" : "4" ,
 	"wsize": 60,
-	"hsize": 70
+	"hsize": 70,
+	"image_url":"https://i.ya-webdesign.com/images/long-sleeve-shirt-png-9.png"
 	},
 	{
 	"name" : "5" ,
 	"wsize": 40,
-	"hsize": 50
+	"hsize": 50,
+	"image_url":"https://pngimage.net/wp-content/uploads/2018/06/formal-shirt-png.png"
 	},
 	{
 	"name" : "6" ,
 	"wsize": 60,
-	"hsize": 60
+	"hsize": 60,
+	"image_url":"https://www.pngarts.com/files/1/Formal-Shirts-For-Men-PNG-Free-Download.png"
 	},
 	{
 	"name" : "7" ,
 	"wsize": 40,
-	"hsize": 50
+	"hsize": 50,
+	"image_url":"https://www.freepnglogos.com/uploads/t-shirt-png/t-shirt-png-download-white-shirt-png-image-png-image-pngimg-0.png"
 	}
 
 ]
